@@ -38,7 +38,7 @@ console.log("la somma è data da: " + somma)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const x=12
+let x=12
 console.log("Il valore di x è: " + x)
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
