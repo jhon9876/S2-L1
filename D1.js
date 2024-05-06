@@ -66,7 +66,7 @@ let name2="John"
 const Uguaglianza= (name1===name2)? "Uguali" : "Diverse"
 console.log("Le due stringhe sono: " + Uguaglianza)
 // non compreso bene l'extra
-name1.toLowerCase
+name1.toLowerCase()
 console.log("Stringa name1 in lowercase: " + name1)
 name2.toLowerCase()
 console.log("Stringa name2 in lowercase: " + name2)
